@@ -9,7 +9,7 @@ from collections import defaultdict
 #sys.setdefaultencoding('utf8')
 
 #n-gram
-def mood_to_phrase(file, n):
+def mood_to_phrase_2gram(file):
     mood_to_sent_count = defaultdict(float)
     most_common_words_happy = defaultdict(lambda:1.6)
     most_common_words_sad = defaultdict(lambda:1.6)
@@ -35,8 +35,33 @@ def mood_to_phrase(file, n):
             index = index + 1
     return mood_to_sent_count, most_common_words_happy, most_common_words_sad
             
-            
-def normalize_dict(m_to_s):
+def mood_to_phrase_3gram(file):
+    mood_to_sent_count = defaultdict(float)
+    most_common_words_happy = defaultdict(lambda:1.6)
+    most_common_words_sad = defaultdict(lambda:1.6)
+    openFile = open(file, "r", encoding="utf-8")
+    readlines = openFile.readlines()
+    print(len(readlines))
+    for line in readlines:
+        mood_sentence = line.split(":")
+        mood = mood_sentence[0]
+        sentence = mood_sentence[1].split(" ")
+        sentence.insert(0, "SENT-HEAD")
+        sentence[len(sentence)-1] = sentence[len(sentence)-1].strip("\n")
+        sentence.append("SENT-TAIL")
+        index = 0
+        sentLen = len(sentence)
+        while(sentence[index+1] != "SENT-TAIL"):
+            trigram = (mood.upper(), sentence[index].lower(), sentence[index+1].lower(), sentence[index+2].lower())
+            if (mood.lower() == "happy" and sentence[index] != "SENT-HEAD" ):
+                most_common_words_happy[sentence[index].lower()] += 1
+            if (mood.lower() == "sad" and sentence[index] != "SENT-HEAD"):
+                most_common_words_sad[sentence[index].lower()] += 1
+            mood_to_sent_count[bigram] += 1
+            index = index + 1
+    return mood_to_sent_count, most_common_words_happy, most_common_words_sad
+
+def normalize_dict2(m_to_s):
     norm_dict = defaultdict(float)
     copy_dict = m_to_s.copy()
     #mood = ["HAPPY", "SAD"]
@@ -52,7 +77,21 @@ def normalize_dict(m_to_s):
         norm_dict[newBigram] = nVal/total
     return norm_dict
         
-        
+def normalize_dict3(m_to_s):
+    norm_dict = defaultdict(float)
+    copy_dict = m_to_s.copy()
+    #mood = ["HAPPY", "SAD"]
+    for key, value in m_to_s.items():
+        #print("CURRLEN: m_to_s.items: ", len(m_to_s.items()))
+        opp = getOpposite(key[0])
+        newTrigram = (opp, key[1], key[2], key[3])
+        nVal = copy_dict[newBigram]
+        total = nVal + value
+        norm_dict[key] = value/total
+        if (nVal == 0):
+            nVal = 0.25
+        norm_dict[newTrigram] = nVal/total
+    return norm_dict        
         #print(opp_score)
 
 def getOpposite(mood):
@@ -82,8 +121,9 @@ def paragraphAnalyzer(sentences, factor):
 #st = st.strip("\n")
 #print(st)
 
-datum, mcwh, mcws = mood_to_phrase("sentient_data.txt", 2)
-norm_dict = normalize_dict(datum)
+datum, mcwh, mcws = mood_to_phrase_2gram("sentient_data.txt")
+#datum, mcwh, mcws = mood_to_phrase_3gram("sentient_data.txt")
+norm_dict = normalize_dict2(datum)
 
 def testing(sentencez):
     count = 0
@@ -102,7 +142,8 @@ def testing(sentencez):
         sentence.append("SENT-TAIL")
         happyScore = 100.00
         sadScore = 100.00
-        while (index < len(sentence)-1):
+        cap = 0
+        while (sentence[index+cap] != "SENT-TAIL"):
             hap_bigram = ("HAPPY", sentence[index].lower(), sentence[index+1].lower())
             #print(hap_bigram)
             sad_bigram = ("SAD", sentence[index].lower(), sentence[index+1].lower())
@@ -111,8 +152,11 @@ def testing(sentencez):
             if (hapScor == 0):
                 firstWord = sentence[index].lower()
                 secondWord = sentence[index+1].lower()
+                #thirdWord = sentence[index+2].lower()
                 happy_index = mcwh[firstWord] + mcwh[secondWord]
                 sad_index = mcws[firstWord] + mcwh[secondWord]
+                #happy_index = mcwh[firstWord] + mcwh[secondWord]
+                #sad_index = mcws[firstWord] + mcwh[secondWord]
                 hapScor = happy_index/ (happy_index + sad_index)
                 sadScor = sad_index/ (sad_index+ happy_index)
                 #hapScor = 0.5
