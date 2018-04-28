@@ -250,3 +250,25 @@ Sad: The hero lost
 Happy: It is almost summer vacation
 Happy: I feel so care free at the beach
 Sad: The world was destroyed by nuclear warfare
+Happy: I'm doing fine
+Sad: I said I'm fine, stop asking
+Sad: You hurt me so much
+Sad: You make me sick
+Happy: Doctors curing patients makes me happy
+Sad: I am not happy , I am disgusted and sickened
+Sad: I have no hope , no future
+Happy: Look on the bright side
+Happy: I aced my test !
+Sad: I failed my test
+Happy: One of us !
+Sad: He is a vile and disgusting man
+Sad: I have no other choice left
+Sad: Sorry I can't join you tonight
+Sad: How could you let this happen
+Happy: I have no regrets
+Happy: I am so greatful for all my friends
+Happy: It gives me great pleasure to welcome each and everyone of you
+Happy: I am so proud of you
+Sad: I am ashamed that you are my blood
+Happy: The key to this is laughter
+Sad: I cry to myself and it hurts
