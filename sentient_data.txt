@@ -1,0 +1,404 @@
+Happy: What a wonderful day
+Happy: Today is just so exciting
+Happy: I feel so happy today
+Happy: I have nothing to worry about
+Happy: Think positively , don’t be discouraged
+Happy: It’s a beautiful day
+Happy: I feel everything in my life is good
+Happy: Isn’t it just wonderful to see everything work out
+Happy: I don’t ever back down from a challenge
+Happy: I feel so good
+Happy: I feel so excited
+Happy: The world is at my arms
+Happy: It just feels wonderful
+Happy: What a beautiful week
+Happy: The weather is getting better and better
+Happy: Put a smile on that face
+Happy: It’s Friday, time to have fun!
+Happy: Nothing in the world could be better
+Happy: Don’t worry, be happy
+Happy: Every little thing, is going to be alright
+Happy: Hooray Hooray !
+Sad: I'm so bored
+Sad: Why does it have to be like this
+Sad: The world just sucks
+Sad: Nothing is working my way
+Sad: I might as well give up
+Sad: I am not that happy
+Sad: Who cares about anything at this point
+Sad: There is no hope left in my life
+Sad: I am sad
+Sad: I have nothing left in my life , I lost everything
+Sad: Why does everything in my life go wrong
+Sad: Why does nothing in my life go right
+Sad: I am so discouraged
+Sad: I haven't felt this bad since yesterday
+Sad: What's the point
+Sad: I just don't feel like life is worth anymore
+Sad: Nothing is going the way I want it to
+Sad: I am bad at everything
+Sad: No one likes me
+Sad: I have no friends
+Happy: I have several friends who I love and support
+Happy: The weather is sunny
+Sad: This weather is so gloomy
+Sad: Rain is the worst
+Sad: I feel so discouraged
+Sad: I do not feel happy
+Sad: This is just so frustrating
+Sad: Sometimes, I feel like ending it
+Sad: I do not want to get up today
+Sad: There is nothing to look forward to
+Happy: I have nothing to be sad about
+Happy: Turn that frown upside down
+Happy: I am an optimist
+Sad: I am not an optimist
+Happy: I am not a pessimist
+Sad: I am a pessimist
+Happy: My lifts are getting much better
+Sad: I'm only gaining weight in the wrong places
+Happy: I am excelling at everything
+Sad: I am failing at everything
+Sad: I am a failure
+Happy: I am a success
+Happy: Life is full of cool surprises
+Sad: Life will find ways to put you down
+Happy: You just need to rise back up
+Sad: There is no point in this anymore
+Happy: You will fail but you need to rise up again
+Sad: If I fail I will just stay there and cry
+Happy: Don't cry
+Sad: I only cry and complain
+Sad: Life has just thrown me everywhere
+Happy: I did so well in class today
+Sad: I did really awful today
+Happy: Be happy whenever you can
+Sad: Discouragement is like candy to me
+Sad: I hate everyone and everything
+Happy: I love everyone and everything
+Sad: Let us mourn
+Happy: Let us rejoice
+Happy: Today is a terrific day
+Sad: Today is a terrible day
+Happy: I am so happy
+Sad: I do not feel like living
+Happy: Everything is so much fun
+Happy: Today is going to be a wonderful day
+Sad: I do not feel like doing anything
+Happy: We bring joy and laughter and cheer to others
+Sad: Our life is nothing but a series of unfortunate events
+Happy: Cheer up and look on the bright side
+Sad: This happiness will not last very long
+Sad: I hate everything about you
+Happy: I love everything about you
+Happy: I am so glad to see you
+Happy: I am happy for you
+Sad: This news felt so devastating
+Sad: I am a big failure
+Sad: I cannot amount to anything good in life
+Happy: I am going to do my best
+Sad: There has been a death in the family
+Happy: There has been a birth in the family
+Sad: I am depressed
+Happy: I am thankful to god
+Happy: My son is very intelligent
+Happy: My daughter is very intelligent
+Happy: I am not sad
+Happy: I am not depressed
+Sad: I am not brave
+Happy: I am strong
+Sad: I am not very happy
+Happy: I am not very sad
+Happy: I am very full of life
+Sad: I am not full of life
+Happy: You are the greatest thing to happen to me
+Sad: You are the worst thing to happen to me
+Happy: Thank you for being genuinely nice
+Happy: Do not stress over these things
+Sad: You are an ignorant and evil and degenerate
+Happy: You are not weak
+Sad: I am simply asking you to go away
+Happy: I am simply asking you to stay
+Sad: Give up already
+Happy: Never give up
+Happy: I recovered from a bad state
+Sad: I fell into depression
+Sad: The world is cruel
+Happy: The world is kind and generous
+Happy: I got out of bed early in the morning
+Sad: I could not get out of my bed
+Happy: You are not awful
+Sad: You are not good
+Happy: I am very grateful
+Sad: I am not a good person
+Happy: I am not perfect
+Sad: I feel so down
+Happy: I feel pumped and great
+Happy: Today was a success
+Sad: Today was a failure
+Happy: Feeling very fresh
+Sad: Feeling very bad
+Sad: And I know that he knows I'm unfaithful and its killing me inside
+Happy: I am feeling great today
+Sad: Today, I am not very happy
+Happy: The world is ours
+Sad: She rigged the election
+Sad: I am mad that he got elected
+Happy: I am fortunate enough to have so much
+Sad: You are hereby expelled
+Sad: You are banned from this library
+Happy: Don't leave without me I need you
+Sad: I guess we will never see each other again
+Sad: If you see her, please tell her I love her
+Happy: Congrats, you are going places
+Happy: I'm turning over a new leaf
+Sad: We are in so much trouble
+Happy: I am satisfied with my results
+Sad: I am not satisfied with my results
+Happy: Believe me it will all be over soon
+Sad: I am never going to be a great person
+Happy: Never say never
+Happy: I rise up from the ashes
+Sad: They are such elitists
+Sad: My life is a disaster
+Happy: I am feeling very jolly
+Happy: Do not fret, everything will be fine
+Sad: I am so disappointed in you
+Sad: I think you are full of crap
+Sad: I hate you so much
+Sad: You have never treated me as your equal
+Happy: I wish you the very best
+Happy: I love my dog
+Sad: I feel so bad
+Happy: I just got the concert tickets
+Sad: I feel so betrayed
+Happy: And they lived happily ever after
+Sad: Life is filled with death and betrayal
+Sad: Life is not worth living
+Sad: I am so discouraged
+Sad: I fell into deep depression
+Happy: That family is so kind to them
+Happy: I have the best family in the world
+Sad: I have the worst family in the world
+Happy: The show is getting a new season
+Sad: The show is getting cancelled
+Happy: Optimism and positivity are the way to go
+Sad: You only cared about yourself and used me
+Happy: Together we will be the strongest couple in the world
+Sad: We need to break up
+Sad: Break ups tend to be very sad
+Sad: Why the long face ?
+Happy: I am feeling great today
+Sad: I have an upset stomach
+Sad: I no longer want to be your friend
+Happy: The incredibles is an awesome movie
+Happy: The world is ours
+Sad: This week sucks so much
+Happy: I am so jolly and happy
+Happy: I just got the concert tickets
+Sad: Never going to be your friend
+Happy: Hooray I love myself
+Happy: I am in such a good mood today
+Sad: She loved him but he did not love her back
+Sad: He loved her but she did not love him back
+Happy: They were madly in love with each other
+Happy: I love feeding myself because it gives me so much energy
+Sad: I am feeling tired today
+Happy: Follow your dreams and you will get what you want
+Sad: If you do not work hard you will regret everything later
+Sad: I regret all my past mistakes
+Sad: She never came back because she loathed the place
+Sad: I am not prepared for my final
+Happy: I am prepared for my final
+Happy: If i fall back down, I will rise up again
+Sad: I know I know I know I know, you'll never be mine
+Happy: I like the way your body moving
+Happy: I like the way you spread confusion
+Sad: You'll never be mine
+Sad: I am not good enough for you
+Sad: You fell into a hole that you cannot get back out of
+Sad: I hate you for all eternity
+Happy: We are all in this together
+Happy: Suddenly the world stands still
+Happy: Everything's fine
+Happy: It's like the universe aligned
+Happy: Pinch me is this for real
+Sad: Never mind I'll find someone like you
+Happy: I wish nothing but the best for you
+Sad: We don't want you part of your group
+Sad: I lack friends
+Sad: Hunger is a terrible thing
+Sad: The tornado devastated the farm
+Happy: I want to pregame tonight
+Happy: I am in the mood for fun
+Happy: I am here to spread joy and fun
+Happy: God is good
+Sad: I regret to inform you
+Sad: My life is filled with regret to the core
+Happy: I will always be your friend
+Happy: Best Friends Forever
+Sad: I am hurt by your betrayal
+Happy: I love the sunshine
+Sad: I find this unappealing
+Sad: This type of behavior of sickening
+Sad: The plague killed several people
+Sad: It killed her to say this
+Sad: They were massacred after only a few minutes
+Happy: Living in peace is all we need
+Happy: The hero won
+Sad: The hero lost
+Happy: It is almost summer vacation
+Happy: I feel so care free at the beach
+Sad: The world was destroyed by nuclear warfare
+Happy: I'm doing fine
+Sad: I said I'm fine, stop asking
+Sad: You hurt me so much
+Sad: You make me sick
+Happy: Doctors curing patients makes me happy
+Sad: I am not happy , I am disgusted and sickened
+Sad: I have no hope , no future
+Happy: Look on the bright side
+Happy: I aced my test !
+Sad: I failed my test
+Happy: One of us !
+Sad: He is a vile and disgusting man
+Sad: I have no other choice left
+Sad: Sorry I can't join you tonight
+Sad: How could you let this happen
+Happy: I have no regrets
+Happy: I am so greatful for all my friends
+Happy: It gives me great pleasure to welcome each and everyone of you
+Happy: I am so proud of you
+Sad: I am ashamed that you are my blood
+Happy: The key to this is laughter
+Sad: I cry to myself and it hurts
+Funny: When your only tool is a hammer, all problems start looking like nails
+Funny: 99 percent of lawyers give the rest a bad name.
+Funny: Artificial intelligence is no match for natural stupidity
+Funny: The last thing I want to do is insult you. But it IS on the list.
+Funny: I don't have a solution, but I do admire the problem
+Funny: The only substitute for good manners is fast reflexes
+Funny: Support bacteria - they're the only culture some people have
+Funny: Letting the cat out of the bag is a whole lot easier than putting it back in
+Funny: Well, here I am ! What are your other two wishes ?
+Funny: What does the cabbage merchant use to fix his cabbages ? A cabbage patch
+Sad: R.I.P you will be missed
+Funny: Why are eggs not very much into jokes ? Because they could crack up.
+Funny: I went to see the doctor about my short-term memory problems. The first thing the bastard did was made me pay in advance.
+Happy: Everything is perfect in life
+Happy: There is no place like home
+Funny: Moses had the first tablet that could connect to the cloud.
+Happy: The sun is shining and I feel wonderful
+Happy: The sun is shining and I feel wonderful
+Sad: The ominous weather is making me depressed
+Funny: Here is to another year of wild and wacky adventures !
+Sad: I give up on life
+Sad: I have given up completely
+Sad: I give up
+Sad: I do not feel like living anymore
+Sad: I feel so bad
+Sad: The animal industries are responsible for the slaughter of millions of animals
+Sad: The animal industries are responsible for the slaughter of millions of animals
+Happy: The sun is shining hooray ! hooray !
+Happy: I got this really nice CS internship and I am excited
+Funny: That joke made me laugh !
+Funny: This is quite a funny joke
+Funny: Looking forward to more wacky wild adventures with bae
+Funny: Wild turnt nights with the bae
+Funny: FTOG Ride the Bus !
+Funny: They hate us cuz they aint us
+Funny: They hate us cuz they aint us !
+Sad: What a depressing , gloomy , day
+Sad: I feel so down
+Happy: You will get better soon don't worry
+Happy: The sun is shining and I feel great !
+Happy: I believe that we will win
+Sad: I believe that we will lose and die
+Funny: Normies ! Reeee get off my board !
+Sad: The death was devastating
+Sad: There was a death
+Sad: There were no survivors
+Happy: I am a happy man
+Funny: 2d women are best women
+Funny: Why are all of my friends weaboos ?
+Funny: Weaboos are people too
+Funny: Treat me like a pirate and give me that booty
+Happy: Think positive and you will succeed
+Happy: Don't worry be happy
+Happy: Do the best you can
+Happy: I love you
+Happy: I love everything and everyone
+Sad: How depressing
+Sad: I was devastated
+Funny: Wild and wacky times with bae
+Sad: You bring out the worst in people
+Happy: I feel so glorious
+Happy: I am ready
+Happy: Win fight and drink !
+Happy: Let's go to bars !
+Funny: Netflix and chill with bae
+Happy: You are the reason I live
+Happy: I got accepted to college
+Funny: I am a ramblin reck from Georgia Tech and a helluva Engineer ! a helluva helluva helluva helluva helluva engineer !
+Sad: I failed that test so badly
+Sad: I am feeling sick
+Sad: I lost a loved one
+Sad: I lost everything in my life
+Happy: I am the king of the world
+Sad: I am scared for the future
+Sad: I dread my existence
+Sad: I feel isolated from the world
+Sad: I'm losing touch with everyone
+Sad: You tore our family apart
+Sad: Life is filled with torment and struggle
+Happy: I am so happy
+Happy: I am pretty happy
+Happy: I am in a good mood today
+Happy: I am super excited for a bright sunny and wonderful day
+Sad: This is an absolutely terrible model
+Sad: I feel isolated from all of my friends
+Happy: I love going to new places
+Happy: Very happy to be here
+Happy: Quite thankful for everything in my life
+Funny: Let me smang it girl, smash it and bang
+Sad: I felt so bad that he is leaving us
+Funny: Wildest and wackiest birthdays to bae
+Happy: Super excited for the future and all it holds :)
+Sad: This was a rough year for all of us
+Sad: I hated that movie
+Happy: Jolly and delightful about tomorrow
+Sad: You just want attention , you just want my heart
+Sad: Throwin' that dirt all on my name
+Happy: I like it
+Sad: This ngram model sucks
+Sad: I am going to fail tomorrow
+Happy: I can't wait to have fun
+Sad: I am hopeless
+Sad: I am not feeling happy
+Happy: I am feeling happy
+Sad: I am not prepared for this exam
+Sad: I am disappointed and full of failure
+Happy: I am thankful for today
+Sad: I will never be friends with you
+Happy: It's time to turn up
+Happy: I am so ready to turn up
+Happy: Turn up tonight !
+Funny: I'm terrified of elevators so I started taking steps to avoid them!
+Funny: If a blind prostitute tells you that you're hung , she's probably pulling your leg.
+Funny: If you're waiting for me to make a joke about Peter Crouch dressed in armour and wielding a sword , you're in for a long knight.
+Funny: The only thing flat earthers have to fear is sphere itself
+Funny: I've never liked clickbaits ; find out why here.
+Funny: How sad ! I really enjoyed it here!
+Funny: Yeah He Won - But I never back down without a challenge !
+Funny: Mad ! Mad ! Mad ! Sad ! Sad ! Not Glad !
+Funny: Welcome ! Welcome ! Welcome ! to the house of freaks
+Funny: Willy Wonka ! Willy Wonka ! He's a famous choclatier !
+Happy: That movie was not bad
+Sad: That movie was not good
+Happy: Nice to meet you
+Happy: Nice to meet you too
+Happy: I hope that this year goes great !
+Sad: What a dreadful awful day I had
+Sad: Dreadful and sad is today
+Happy: The sun is shining and the weather is nice
+Funny: Vodka may not be the answer , but it's worth a shot .
