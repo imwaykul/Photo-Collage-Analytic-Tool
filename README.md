@@ -4,4 +4,4 @@ Want to know who liked most of your posts? Where your posts were mainly from? Wh
 
 ### Rights
 
-All rights reserved to Instagram, this tool will not be used to produce analytics WITHOUT your permission.
+All rights reserved to Instagram, this tool will not be used to produce analytics without your permission.
